@@ -1,5 +1,5 @@
 <?php
-// Fixing Comments 2 3
+// Fixing Comments
 
 require_once 'controller/ContactsController.php';
 
